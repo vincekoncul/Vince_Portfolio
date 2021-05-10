@@ -1,3 +1,5 @@
 # Vince_Portfolio
+Portfolio
 
-**#Project 1**
+# [**Linear Optimization Case Study**](https://github.com/vincekoncul/LinearOptimization_CaseStudy)
+
